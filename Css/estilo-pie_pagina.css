@@ -1,0 +1,22 @@
+footer{
+    background: rgba(44, 0, 61, 0.466);
+}
+
+.footer-content{
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.pie-pagina{
+    text-align: center;
+    font-size: 20px;
+}
+
+.line{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    height: 2px;
+    background: rgb(132, 0, 255);
+    margin-bottom: 30px;
+}
